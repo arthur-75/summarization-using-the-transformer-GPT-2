@@ -1,0 +1,5 @@
+termcolor
+numpy
+trax
+pipreqs
+textwrap
